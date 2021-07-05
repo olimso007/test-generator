@@ -1,0 +1,12 @@
+@import url(../../utils/constants.css);
+
+input[type="file"] {
+    display: none;
+}
+
+.choose-file {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2% 0%;
+}

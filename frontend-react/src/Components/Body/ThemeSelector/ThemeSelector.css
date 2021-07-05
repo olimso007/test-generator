@@ -1,0 +1,13 @@
+@import url(../../../utils/constants.css);
+
+.select-topic {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input {
+    text-align: right;
+    border-radius: 5px;
+    border-color: #FEFFFF;
+}

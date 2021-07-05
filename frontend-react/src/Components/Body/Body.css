@@ -1,0 +1,25 @@
+@import url(../../utils/constants.css);
+
+.body {
+    border-style: solid;
+    font-style: italic;
+    border-radius: 5px;
+    padding: 1rem 1rem 2rem 2rem;
+    border-color: white;
+    overflow: auto;
+    border-width: 1px;
+    max-height: 25vh;
+    background-color: var(--header-color);
+}
+
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    background-color: black;
+}
+
+
+.hide {
+    display: none;
+}
+

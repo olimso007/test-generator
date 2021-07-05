@@ -1,0 +1,41 @@
+:root {
+    --header-color: rgba(0,0,0,0.6);
+    --primary-backgound: #3AAFA9;
+    --text-light: #FEFFFF;
+    --text-dark:#17252A; 
+}
+
+.styled-button {
+    display:inline-block;
+    padding:0.35em 1.2em;
+    border:0.1em solid #FEFFFF;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    text-decoration:none;
+    font-family:'Roboto',sans-serif;
+    font-weight:300;
+    color:#FEFFFF;
+    text-align:center;
+    transition: all 0.2s;
+    background-color: transparent;
+    font-size: large;
+    width: 35%;
+}
+
+.styled-button:hover{
+    color:#000000;
+    background-color:#FEFFFF;
+  }
+  
+  @media all and (max-width:30em){
+    .styled-button{
+    display:block;
+    margin:0.4em auto;
+    }
+}
+
+.uppercase {
+    text-transform:uppercase;
+    font-weight: bold;
+}

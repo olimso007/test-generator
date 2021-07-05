@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<subject code="VB000">
+  <topic name="Past simple" num="1">
+    <question points="5">Two years ago I (visit/visited) my old aunt in a small old town. </question>
+    <question points="3">It was a long visit as my aunt (didn't feel/wasn't feel) well. </question>
+    <question points="3">I had to (bought/buy) medicine and food. </question>
+  </topic>
+
+  <topic name="Past progressive" num="2">
+    <question points="2"> he / the car / wash </question>
+    <question points="5"> they / not / the match / watch </question>
+    <question points="5"> you / in the shop / work </question>
+  </topic>
+
+  <topic name="Present simple" num="3">
+    <question points="1"> I (to like) lemonade very much. </question>
+    <question points="5"> The girls always (to listen) to pop music.</question>
+    <question points="5"> Janet never (to wear) jeans.</question>
+    <question points="5"> Mr Smith (to teach) Spanish and French.</question>
+    <question points="5"> You (to do) your homework after school.</question>
+  </topic>
+
+  <topic name="Present continuous" num="4">
+    <question points="5"> He (save) money because he wants to buy a car. </question>
+    <question points="5"> You (not listen) to me. </question>
+    <question points="5"> My parents (look) for a new apartment. </question>
+    <question points="5"> The victim (not cooperate) with the police. </question>
+    <question points="5"> We (plan) a trip to Japan. </question>
+  </topic>
+
+  <topic name="Present Perfect" num="5">
+    <question points="5"> I (to see) that film before. </question>
+    <question points="5"> Steve is at home. He (to be) sick for three days. </question>
+    <question points="5"> I'm going to the shop. We (to run) out of sugar. </question>
+    <question points="5"> I (to wash) my hands so that I can help you with the cooking. </question>
+    <question points="5"> They (to buy) a new car. </question>
+  </topic>
+  <topic name=" Possessive Pronouns" num="6">
+    <question points="3"> Where is (I) pen? </question>
+    <question points="3"> Nick likes (he) job. </question>
+    <question points="3"> (You) laptop is very expensive. </question>
+    <question points="3"> We have a parrot. (It)  name is Paco. </question>
+    <question points="3"> (She) favourite hobby is reading. </question>
+  </topic>
+
+  <topic name="Personal Pronouns" num="7">
+    <question points="5"> Do you like oranges? - I love ... . </question>
+    <question points="5"> My mother is wonderful. I love ... very much. </question>
+    <question points="5"> Your parents were so kind to me. Thank ... , please. </question>
+    <question points="5"> Where's my phone? Oh, dear! I've lost ... . </question>
+    <question points="5"> You didn't come to the party. What happened to ... ? </question>
+  </topic>
+
+  <topic name="To be verb" num="8">
+    <question points="1"> Betty .... at home. </question>
+    <question points="1"> Mark and Ann .... students. </question>
+    <question points="1"> I .... 20 years old. </question>
+    <question points="1"> The weather .... wonderful today. </question>
+    <question points="1"> The books .... on the desk. </question>
+  </topic>
+
+  <topic name="Must and have to" num="9">
+    <question points="5"> I don't like these clothes, but I (must/have to) wear them at work. </question>
+    <question points="5"> She has a big problem. I think we (must/have to) help her. </question>
+    <question points="5"> You (must/have to) eat healthier and stop smoking, you will feel better. </question>
+    <question points="5"> The doctor has put me on a strict diet. I (must/have to) eat more fruit. </question>
+    <question points="5"> John can't come because he (must/have to) work tomorrow.</question>
+  </topic>
+
+  <topic name="Very few or very little" num="10">
+    <question points="1"> Some people in the office are very lazy. They do (very few/very little) work. </question>
+    <question points="1"> The weather here is very dry in summer. There is (very few/very little) rain.</question>
+    <question points="1"> Your English is very good. You make (very few/very little) mistakes. </question>
+    <question points="1"> I drink (very few/very little) tea. I prefer coffee. </question>
+    <question points="1"> There are (very few/very little) hotels. </question>
+  </topic>
+  <topic name="A few or a little" num="11">
+    <question points="1"> I have a cup of tea and (a few/a little) cereal for breakfast. </question>
+    <question points="1"> Mark speaks Italian well. He lived in Italy for (a few/a little) years. </question>
+    <question points="1"> Can I have (a few/a little) milk in my coffee? </question>
+    <question points="1"> I'm going out for a walk. I need (a few/a little) fresh air. </question>
+    <question points="1"> There are just a table and (a few/a little) chairs.</question>
+  </topic>
+  <topic name="Past continuous" num="12">
+    <question points="4"> The wind (to blow) from the north. </question>
+    <question points="4"> Paul (to clean) his car. </question>
+    <question points="4"> It was a beautiful night. The stars (to sparkle). </question>
+    <question points="4"> Their kids (to run) around the garden all evening. </question>
+    <question points="4"> After an hour's sleep she (to feel) much better. </question>
+  </topic>
+  <topic name="Past Simple Passive" num="13">
+    <question points="3"> The house (to build) two years ago. </question>
+    <question points="3"> We (wake up) by a telephone call. </question>
+    <question points="3"> The vase (to buy) in Spain last summer. </question>
+    <question points="3"> She (not to invite) to the party. </question>
+    <question points="3"> His car (to repair) yesterday. </question>
+  </topic>
+</subject>
